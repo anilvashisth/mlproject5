@@ -4,9 +4,39 @@ Hello Everyone, My Name is Anil Kumar (MCA, M.Tech IT), and my interested area a
 
 Web development (MEAN Stack,MERN Stack),    
 AI, 
-Machine Learning,   
-1) Supervised Learning 2) Unsupervised learning 3) Reinforcement Learning,  
-Deep Learning,     
+Machine Learning using Python and R,   
+1) Supervised Learning 2) Unsupervised learning 3) Reinforcement Learning, 
+Imp Points,     
+Data Preprocessing,     
+
+1 )     Regression, 
+Simple linear Regression,       
+Multiple Linear Regression,     
+Polynomial Regression,      
+Support vector regression,      
+Decision Tree Regression,       
+random forest reg,   
+
+2)       Classification,        
+Logistic Reg,
+K-Nearest Neighbors(KNN),   
+support vector machine(SVM),    
+Naive Bayes,    
+Decision Tree Classification,   
+Random Forest Classification,
+
+3)      Clustering,     
+K-Means Clustering, 
+Hierarchical Clustering
+
+4) Association Rule Mining,     
+Apriori,         
+Eclat,      
+
+Deep Learning,  
+ANN,        
+CNN,           
+RNN,            
+NLP,
 Computer Vision,    
-NLP,    
 Data Analytics using PowerBI and Tableau    
