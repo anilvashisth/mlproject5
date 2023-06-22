@@ -3,9 +3,10 @@
 Hello Everyone, My Name is Anil Kumar (MCA, M.Tech IT), and my interested area are: 
 
 Web development (MEAN Stack,MERN Stack),    
-AI, 
+Artificial Intelligence,            
 Machine Learning using Python and R,   
-1) Supervised Learning 2) Unsupervised learning 3) Reinforcement Learning, 
+1) Supervised Learning 2) Unsupervised learning 3) Reinforcement Learning,  
+                       
 Imp Points,     
 Data Preprocessing,     
 
@@ -34,9 +35,9 @@ Apriori,
 Eclat,      
 
 Deep Learning,  
-ANN,        
-CNN,           
-RNN,            
-NLP,
+Artificial Neural Network,        
+Convolutional Neural Network,           
+Recurrent Neural Network,            
+Natural Language Processing,
 Computer Vision,    
 Data Analytics using PowerBI and Tableau    
